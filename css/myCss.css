@@ -1,0 +1,17 @@
+
+/*HTML元素*/
+body{
+    background-color: #c6ceb4;
+    font-size: 0.75rem;
+}
+
+/* CLASS */
+
+.req-cls{
+    background-color: #89a6cb;
+}
+
+/* ID */
+#troble{
+  color: lightcoral;
+}
