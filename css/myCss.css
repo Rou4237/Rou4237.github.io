@@ -5,6 +5,15 @@ body{
     font-size: 0.75rem;
 }
 
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+div> div> a{
+    color: #293f46;
+}
+
 /* CLASS */
 
 .req-cls{
